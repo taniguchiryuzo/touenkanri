@@ -1,8 +1,8 @@
 # プロダクトのタイトル
 
 登園管理アプリ
-[]()
-
+- LINEBOT、友だち追加URL[https://lin.ee/uqwTK78](https://lin.ee/uqwTK78)
+- スプレッドシート（共有用）[https://docs.google.com/spreadsheets/d/1Aynor55Zj7QGeSk40xIyMIldkRbvSxKAZhmN2GCS5rU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Aynor55Zj7QGeSk40xIyMIldkRbvSxKAZhmN2GCS5rU/edit?usp=sharing)
 ## プロダクトの紹介
 
 - LINEbotを使用した登園管理アプリ
